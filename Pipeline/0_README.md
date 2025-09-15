@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 ## 1. Khái niệm
 Pipeline dữ liệu là một chuỗi các bước để **trích xuất (Extract)** dữ liệu từ nguồn, **chuyển đổi (Transform)** để làm sạch/xử lý, và cuối cùng **tải (Load)** dữ liệu vào hệ thống đích.  
 Quy trình này thường được gọi là **ETL (Extract – Transform – Load)**.
